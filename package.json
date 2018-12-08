@@ -9,7 +9,9 @@
   "dependencies": {
     "next": "^4.2.3",
     "react": "^16.2.0",
-    "react-dom": "^16.2.0"
+    "react-dom": "^16.2.0",
+    "antd": "^3.11.0",
+    "babel-plugin-import": "^1.11.0"
   },
   "engines": {
     "node": "6.9.x"
