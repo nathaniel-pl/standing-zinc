@@ -23,7 +23,7 @@
     "node": "10.x"
   },
   "repository": {
-    "url": "https://glitch.com/#!/project/hello-nextjs"
+    "url": "https://glitch.com/#!/project/hello-nextjs-antd"
   },
   "license": "MIT",
   "keywords": [
