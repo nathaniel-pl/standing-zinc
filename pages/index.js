@@ -8,7 +8,7 @@ export default () =>
       <meta charSet='utf-8' />
     </Head>
     <div>
-      <Button>it works!</Button>
+      <Button>it works, i think!</Button>
     </div>
   </div>
 

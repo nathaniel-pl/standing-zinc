@@ -4,10 +4,7 @@
   "description": "a nextjs hello world app",
   "main": "server.js",
   "scripts": {
-    "dev": "next",
-    "build": "next build",
-    "start": "next start",
-    "export": "next export"
+    "start": "next"
   },
   "dependencies": {
     "next": "^7.0.2",
@@ -16,10 +13,11 @@
     "antd": "^3.11.0",
     "babel-plugin-import": "^1.11.0",
     "@zeit/next-less": "^1.0.1",
-    "@babel/plugin-proposal-decorators": "^7.2.0"
+    "@babel/plugin-proposal-decorators": "^7.2.0",
+    "less": "^3.9.0"
   },
   "engines": {
-    "node": "6.9.x"
+    "node": "10.x"
   },
   "repository": {
     "url": "https://glitch.com/#!/project/hello-nextjs"
