@@ -1,4 +1,4 @@
-import { Button } from 'antd'
+import { Button, DatePicker } from 'antd'
 import Head from 'next/head'
 
 export default () =>
@@ -8,9 +8,7 @@ export default () =>
       <meta charSet='utf-8' />
     </Head>
     <div>
-      <Button>there's some weird refresh stuff going on here.</Button>
-    </div>
-  </div>d refresh stuff going on here???</Button>
+      <Button>there's some weird refresh stuff going on here?</Button>
     </div>
   </div>
 
