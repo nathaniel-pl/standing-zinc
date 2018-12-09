@@ -4,7 +4,10 @@
   "description": "a nextjs hello world app",
   "main": "server.js",
   "scripts": {
-    "start": "next"
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
   },
   "dependencies": {
     "next": "^7.0.2",
