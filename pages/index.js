@@ -8,7 +8,7 @@ export default () =>
       <meta charSet='utf-8' />
     </Head>
     <div>
-      <Button>Button</Button>
+      <Button>Button Update</Button>
       <DatePicker />
     </div>
   </div>
