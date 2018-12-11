@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "node server.js",
     "build": "next build",
-    "start": "node server.js"
+    "start": "next dev"
   },
   "dependencies": {
     "next": "^7.0.2",
