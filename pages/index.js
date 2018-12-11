@@ -9,6 +9,7 @@ export default () =>
     </Head>
     <div>
       <Button>Button Update</Button>
+      <Button>Button number 2!</Button>
       <DatePicker />
     </div>
   </div>
